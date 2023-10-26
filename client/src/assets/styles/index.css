@@ -1,0 +1,16 @@
+#root,
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Roboto", sans-serif;
+}
+
+html {
+	background-color: #242222;
+}
+
+.MuiToolbar-root {
+  color: #242222;
+  background-color: #d9a243;
+}
